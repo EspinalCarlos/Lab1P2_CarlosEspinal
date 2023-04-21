@@ -35,6 +35,7 @@ public class Lab1P2_CarlosEspinal {
             num = array[posc];
             lista.add(num);
             System.out.print(array[posc]);
+            System.out.println("");
         } else{
             num = array[posc];
             lista.add(num);
@@ -49,6 +50,7 @@ public class Lab1P2_CarlosEspinal {
         if (posc == 0) {
             num = array[posc];
             System.out.print(array[posc]);
+            System.out.println("");
             lista.add(num);
         } else{
             num = array[posc];
